@@ -19,6 +19,7 @@ The board is designed in **KiCad** and intended for use in experimental rocket p
 - `renders/` – PCB 3D and layout images  
 
 ## 📸 Preview
+pcb.png
 
 
 ## ⚡ Future Work
