@@ -20,7 +20,10 @@ The board is designed in **KiCad** and intended for use in experimental rocket p
 
 ## 📸 Preview
 pcb - https://github.com/kdspacex75/KD-flight-control-System/blob/main/pcb%20.png
+
 3d image - https://github.com/kdspacex75/KD-flight-control-System/blob/main/3d%20image.png
+
+Schematic - https://github.com/kdspacex75/KD-flight-control-System/blob/main/Schematic.pdf
 
 ## ⚡ Future Work
 - Firmware development with STM32CubeIDE  
