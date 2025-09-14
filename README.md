@@ -27,4 +27,4 @@ The board is designed in **KiCad** and intended for use in experimental rocket p
 - Sensor + actuator expansion  
 
 ---
-Made with ❤️ using KiCad
+Made with  using KiCad
