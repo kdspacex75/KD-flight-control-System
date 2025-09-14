@@ -19,7 +19,7 @@ The board is designed in **KiCad** and intended for use in experimental rocket p
 - `renders/` – PCB 3D and layout images  
 
 ## 📸 Preview
-pcb.png
+pcb - https://github.com/kdspacex75/KD-flight-control-System/blob/main/pcb%20.png
 
 
 ## ⚡ Future Work
