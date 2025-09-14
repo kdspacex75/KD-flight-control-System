@@ -19,8 +19,7 @@ The board is designed in **KiCad** and intended for use in experimental rocket p
 - `renders/` – PCB 3D and layout images  
 
 ## 📸 Preview
-![PCB 3D View](renders/pcb-3d.png)  
-![PCB Layout](renders/pcb-layout.png)  
+
 
 ## ⚡ Future Work
 - Firmware development with STM32CubeIDE  
